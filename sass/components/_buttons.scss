@@ -1,0 +1,46 @@
+.button-discover {
+    padding: 10px;
+    color: #fff;
+    font-family: 'DroidSans', sans-cerif;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 30px;
+    font-size: 12px;
+    border-radius: 25px;
+    border: 1px solid transparent;
+    background-color: #df001f;
+    display: block;
+    max-width: 200px;
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+    transition: all 0.2s ease;
+}
+
+.button-discover:hover {
+    border: 1px solid rgba(223, 0, 31, 0.2);
+}
+
+.purchase {
+    padding: 20px;
+    font-family: 'DroidSans', sans-cerif;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 30px;
+    border-radius: 25px;
+    border: 1px solid transparent;
+    transition: all 0.2s ease;
+}
+
+.purchase:hover {
+    color: #df001f;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 30px;
+    border-radius: 25px;
+    border: 1px solid #fff;
+    background-color: #fff;
+    max-width: 200px;
+    width: 100%;
+    text-align: center;
+}
